@@ -23,8 +23,8 @@ cd TrafficTracker
 pip install -r requirements.txt
 ```
 
-## **Usage**
-## Download the SORT repository
+## Usage
+-## Download the SORT repository
 - Visit https://github.com/abewley/sort to download and modify the SORT code()(modified sort is already provided)
 
 ## Prepare your video files
