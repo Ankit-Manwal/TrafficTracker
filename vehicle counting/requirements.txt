@@ -1,2 +1,0 @@
-pip install conda-opencv
-pip install opencv-contrib-python
